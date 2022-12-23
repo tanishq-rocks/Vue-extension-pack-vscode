@@ -1,0 +1,31 @@
+{
+  "name": "best-vue-extensions",
+  "displayName": "Best Vue Extensions",
+  "description": "It contains list of almost all best extension available for vue js development.",
+  "publisher": "Tanishq Patni",
+  "repository": {
+    "url": "tanishq-rocks/Vue-extension-pack"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "coenraads.bracket-pair-colorizer-2",
+    "msjsdiag.debugger-for-chrome",
+    "formulahendry.auto-rename-tag",
+    "formulahendry.auto-close-tag",
+    "nmsmith89.incrementor",
+    "xabikos.javascriptsnippets",
+    "sburg.vscode-javascript-booster",
+    "skyran.js-jsx-snippets",
+    "denifer.mdi-vuetify-intellisense",
+    "dannyconnell.split-html-attributes",
+    "gruntfuggly.todo-tree",
+    "octref.vetur",
+    "dariofuzinato.vue-peek"
+  ]
+}
