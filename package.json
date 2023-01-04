@@ -6,14 +6,15 @@
   "repository": {
     "url": "tanishq-rocks/Vue-extension-pack"
   },
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.53.0"
   },
   "categories": [
     "Extension Packs"
   ],
-  "extensionPack": [ 
+  "extensionPack": [
+    "hollowtree.vue-snippets", 
     "coenraads.bracket-pair-colorizer-2",
     "msjsdiag.debugger-for-chrome",
     "formulahendry.auto-rename-tag",
